@@ -1,0 +1,15 @@
+.dropdown-menu-lg{
+	min-width: 220px !important;
+}
+.label-normal{
+	font-weight: normal !important;
+}
+@media only screen and (max-width: 600px) {
+  .btn.btn-flat{
+  	margin-bottom: 3px !important;
+  }
+  .login-logo img{
+  	width: 300px;
+  	height: 100px;
+  }
+}
